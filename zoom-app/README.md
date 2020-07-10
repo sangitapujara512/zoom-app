@@ -1,3 +1,14 @@
+
+Developer Notes:
+
+This is a simple app to integrate Zoom sdk to react to web app.
+On launch -> Click on Join Meeting
+It Shows "Check Captcha" 
+Click on "Check Captcha"
+Opens a pop-up window
+Click continue
+Show that Meeting has not started.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts

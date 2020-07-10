@@ -1,5 +1,7 @@
 .App {
   text-align: center;
+  padding: 20px;
+  text-decoration: underline;
 }
 
 .App-logo {
@@ -26,6 +28,16 @@
 
 .App-link {
   color: #61dafb;
+}
+#zmmtg-root{
+  top: 100px !important;
+}
+.click-button{
+  margin-top:100px;
+  padding:10px;
+  color:blue;
+  cursor: pointer;
+ 
 }
 
 @keyframes App-logo-spin {
